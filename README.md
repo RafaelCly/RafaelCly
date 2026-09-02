@@ -19,7 +19,8 @@
 - 🎓 Estudiante de **Ingeniería de Sistemas** en la Universidad Nacional de Ingeniería (UNI).
 - 💻 **Desarrollador Full Stack** con interés en el desarrollo web, el análisis de datos y la automatización de procesos.
 - 🤖 Me especializo en **desarrollo asistido por IA**: Claude, agentes de IA, MCP, skills & tools e ingeniería de prompts.
-- 📐 Con conocimientos en **arquitectura de software** y metodologías ágiles (Scrum).
+- 📐 Con conocimientos en **arquitectura de software** y buenas prácticas de diseño.
+- 🔄 Trabajo con metodologías ágiles (**Scrum**) para organizar el desarrollo.
 - 🌱 Siempre aprendiendo nuevas tecnologías y buenas prácticas de desarrollo.
 - 📫 Contáctame: **rafael.chu.l@uni.pe**
 
