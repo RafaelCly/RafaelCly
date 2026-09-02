@@ -19,6 +19,7 @@
 - 🎓 Estudiante de **Ingeniería de Sistemas** en la Universidad Nacional de Ingeniería (UNI).
 - 💻 **Desarrollador Full Stack** con interés en el desarrollo web, el análisis de datos y la automatización de procesos.
 - 🤖 Me especializo en **desarrollo asistido por IA**: Claude, agentes de IA, MCP, skills & tools e ingeniería de prompts.
+- 📐 Con conocimientos en **arquitectura de software** y metodologías ágiles (Scrum).
 - 🌱 Siempre aprendiendo nuevas tecnologías y buenas prácticas de desarrollo.
 - 📫 Contáctame: **rafael.chu.l@uni.pe**
 
@@ -76,6 +77,7 @@
 ![Azure AI](https://img.shields.io/badge/Azure%20AI-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+![Scrum](https://img.shields.io/badge/Scrum-009FDA?style=flat-square&logo=scrumalliance&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)
 
