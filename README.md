@@ -91,8 +91,12 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=RafaelCly&show_icons=true&hide_border=true&theme=tokyonight&count_private=true&cache_seconds=1800" alt="stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelCly&layout=compact&hide_border=true&theme=tokyonight&langs_count=8&cache_seconds=1800" alt="top langs" />
+<img height="200" src="https://raw.githubusercontent.com/RafaelCly/RafaelCly/profile-summary-card-output/tokyonight/3-stats.svg" alt="stats" />
+<img height="200" src="https://raw.githubusercontent.com/RafaelCly/RafaelCly/profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="languages" />
+
+<br/><br/>
+
+<img height="200" src="https://raw.githubusercontent.com/RafaelCly/RafaelCly/profile-summary-card-output/tokyonight/4-productive-time.svg" alt="productive time" />
 
 <br/><br/>
 

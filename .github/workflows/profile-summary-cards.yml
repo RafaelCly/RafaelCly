@@ -1,0 +1,28 @@
+name: Generar tarjetas de estadisticas
+
+on:
+  # Cada 12 horas
+  schedule:
+    - cron: "0 */12 * * *"
+  # Permite ejecutarlo a mano desde la pestana Actions
+  workflow_dispatch:
+  # En cada push a main
+  push:
+    branches:
+      - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - name: Generar tarjetas (todos los temas)
+        uses: vn7n24fzkq/github-profile-summary-cards@release
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          USERNAME: ${{ github.repository_owner }}
+          BRANCH_NAME: profile-summary-card-output
