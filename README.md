@@ -10,15 +10,6 @@
   <img src="https://img.shields.io/badge/Ubicaci%C3%B3n-Per%C3%BA%20%F0%9F%87%B5%F0%9F%87%AA-brightgreen?style=flat" alt="location" />
 </p>
 
-<!-- ====== SELECTOR DE IDIOMA (tipo botón) ====== -->
-<p>
-  <img src="https://img.shields.io/badge/%F0%9F%87%AA%F0%9F%87%B8%20Espa%C3%B1ol-2188FF?style=for-the-badge" alt="Español (actual)" />
-  &nbsp;
-  <a href="https://github.com/RafaelCly/RafaelCly/blob/main/README.en.md">
-    <img src="https://img.shields.io/badge/%F0%9F%87%AC%F0%9F%87%A7%20English-30363D?style=for-the-badge" alt="Ver en inglés" />
-  </a>
-</p>
-
 </div>
 
 ---
